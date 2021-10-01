@@ -117,7 +117,7 @@ plt.tight_layout()
 plt.gcf().autofmt_xdate()
 plt.savefig('Effective_Immunity.png')
 
-# This section then pastes the little flags on to the canvas, not that this is hard coded on the tight layout
+# This section then pastes the little flags on to the canvas, note that this is hard coded on the tight layout
 h, w = 38, 147
 for i in countries:
     main = Image.open('Effective_Immunity.png')
