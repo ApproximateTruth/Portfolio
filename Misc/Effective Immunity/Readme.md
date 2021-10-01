@@ -1,0 +1,1 @@
+## To use the code yourself you'll need to download the "Flags" Folder from the rar file, otherwise you can easily look through the code just from the Effective_Immunity.py script. If there are any unitended issues feel free to comment.
