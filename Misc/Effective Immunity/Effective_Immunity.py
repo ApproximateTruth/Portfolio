@@ -15,7 +15,6 @@ from matplotlib import dates as mpl_dates
 # This is meant to demonstrate a more realized principal of "effective" immunity
 # This tells a better story of how protected a certain populace is which is muddied under first dose strategies
 # The countries chosen were just for my own interests, if you want to change the group, simply edit "Countries"
-# TODO add source from john, make code more readable
 
 
 def truncate(number, decimals=0):
