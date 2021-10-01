@@ -46,7 +46,7 @@ colourDic = {"CAN": "red", "ESP": "black", "FRA": "orange", "GBR": "limegreen", 
              "JPN": "crimson", "AUS": "fuchsia", "HUN": "yellowgreen", "ZAF": 'darkkhaki', 'CHL': 'hotpink',
              "ITA": "green", "GRC": "lightsteelblue", 'MEX': 'peachpuff', 'CUB': "sienna", 'BRA': 'lightsalmon'}
 
-colourCode, offline, smooth = True, True, True
+colourCode, offline, smooth = Flase, False, True
 
 
 if offline:
