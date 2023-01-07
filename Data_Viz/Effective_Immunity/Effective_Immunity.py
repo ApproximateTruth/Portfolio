@@ -8,7 +8,7 @@ from matplotlib import pyplot as plt
 from matplotlib import dates as mpl_dates
 
 
-# Created by: Ryan Flynn
+# Created by: Approximate Truth
 # Date Created: 23/09/21
 # Last Updated: 01/10/21
 # This was created with the documentation and examples of https://matplotlib.org/
