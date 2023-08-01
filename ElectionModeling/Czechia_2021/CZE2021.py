@@ -9,8 +9,6 @@ from matplotlib import pyplot as plt
 # Last Updated : 10/10/21
 # This will in some extent predict the outcome of the 2021 Czech lower house elections
 # Here is a quick introduction to the Czech election https://english.radio.cz/czech-republics-electoral-system-8728570
-# WARNING: This code is very bad and not commented well as of now, I will fix this but being 2 days late already I
-# wanted publish as soon as possible.
 
 
 alli_dict = {'ANO': 'ANO', "KDUTOPODS": 'SPO', 'PTISTA': 'P+S',
